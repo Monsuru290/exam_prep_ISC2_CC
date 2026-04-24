@@ -603,8 +603,6 @@
           "answer": 1,
           "explanation": "Reviewing permissions and consulting IT prevents installing extensions that could access or exfiltrate sensitive data."
         },
-
-      [
         {
           "id": 51,
           "question": "A mid-sized company plans to migrate several legacy applications to a public cloud provider but is concerned about data residency and compliance across multiple jurisdictions; what is the most appropriate initial step to ensure regulatory requirements are met during migration?",
