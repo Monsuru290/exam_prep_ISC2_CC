@@ -1,0 +1,16 @@
+{
+  "name": "isc2-cc-practice-exam",
+  "version": "2.0.0",
+  "description": "Browser-based practice exam for the ISC2 Certified in Cybersecurity (CC) certification",
+  "scripts": {
+    "start": "npx serve -p 3000"
+  },
+  "keywords": ["isc2", "cc", "cybersecurity", "practice-exam", "quiz", "ayinde"],
+  "author": "monsuru290",
+  "license": "MIT",
+  "homepage": "https://monsuru290.github.io/EXAM_prep_ISC2_CC/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monsuru290/EXAM_prep_ISC2_CC.git"
+  }
+}
